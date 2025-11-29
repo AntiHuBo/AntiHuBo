@@ -51,3 +51,68 @@ Whether you're writing, coding, researching, summarizing, or automating — Anti
 
 ## 🧱 Architecture
 
+Components:
+
+- **Task Inbox**: Queue and prioritize tasks  
+- **AI Router**: Direct each task to the most appropriate AI model  
+- **Memory Layer**: Store conversation history, user settings, and task context  
+- **Plugin Engine**: Extend AntiHuBo via external APIs or AI agents  
+- **Frontend UI**: Web-based or app interface for control and review  
+
+---
+
+## 🤝 How to Contribute
+
+We're actively building this project in the open — and we welcome your participation.
+
+### Ways to contribute:
+- Submit issues or feature ideas  
+- Help shape architecture or UX  
+- Develop core modules or plugins  
+- Write documentation, guides, and use cases  
+
+### Contribution Guidelines:
+- Fork this repo and create a feature branch  
+- Submit a Pull Request with a clear description  
+- All contributions are reviewed by maintainers  
+- Respect the [Code of Conduct](./CODE_OF_CONDUCT.md)  
+
+### Licensing:
+AntiHuBo is released under the [Apache 2.0 License](./LICENSE).
+
+---
+
+## 💡 Who Is This For?
+
+- Developers tired of juggling multiple LLM tools  
+- Creators who want to streamline AI workflows  
+- Knowledge workers automating repetitive cognitive tasks  
+- Startups looking to embed multi-AI capabilities  
+- Communities resisting Big Tech centralization of AI tools  
+
+---
+
+## 🔭 Vision
+
+We envision a future where:
+
+> "AI does the execution.  
+> Humans only set goals and make high-leverage decisions."
+
+AntiHuBo is not just a tool — it’s a response to cognitive exhaustion, a new layer between humans and machines, and a battle cry for open AI autonomy.
+
+Join us in building the infrastructure for multi-tasking AI.
+
+---
+
+## 📫 Get Involved
+
+- GitHub Discussions: [Soon]
+- Slack/Discord: [Coming Soon]
+- RFCs & Design Docs: [docs/ directory]
+
+Let's break the bottleneck. Together.
+
+—
+**AntiHuBo Core Team**
+
