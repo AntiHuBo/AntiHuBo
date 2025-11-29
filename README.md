@@ -1,4 +1,4 @@
-# AntiHuBo 🧠🚦  
+# AntiHuBo (AI Tools Control Tower)🧠🚦  
 **Break the Human Bottleneck. Operate AI workflows like a control tower.**
 
 AntiHuBo is an open-source platform that helps humans orchestrate multiple AI tools, agents, and tasks from a single interface — reducing cognitive overload, context-switching fatigue, and decision paralysis. It acts as a "Multi-Tasking AI Control Tower" designed for those who want to survive and grow in the age of Big Tech-dominated AI.
