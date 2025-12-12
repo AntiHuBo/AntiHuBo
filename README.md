@@ -54,7 +54,7 @@ When using multiple AI tools simultaneously:
 ### Setup
 
 ```bash
-git clone https://github.com/[your-username]/antihubo.git
+git clone https://github.com/AntiHuBo/AntiHuBo.git
 cd antihubo
 npm install
 npm run dev
